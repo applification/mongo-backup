@@ -12,7 +12,7 @@
 		<key>RunAtLoad</key>
 		<true/>
 		<key>WorkingDirectory</key>
-		<string>/Users/{user}/</string>
+		<string>/Users/[user]/</string>
 		<key>StartCalendarInterval</key>
 		<dict>
 			<key>Hour</key>
